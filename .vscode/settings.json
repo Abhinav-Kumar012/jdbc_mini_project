@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "class",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+        ],
+        "exclude": [
+        ]
+    }
+}
